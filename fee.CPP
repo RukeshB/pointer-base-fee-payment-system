@@ -558,7 +558,7 @@ void main()
    initgraph(&g,&m,"c:\\TC\\bgi");
   // a=100;
   // b=400;
-   password();
+   //password();
    menu();
    callmouse();
    //  while(!kbhit())
